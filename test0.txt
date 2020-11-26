@@ -1,0 +1,23 @@
+my first work komit in git hub
+
+git --version
+git init
+git status
+git add test0.txt
+git commit –m “Комментарий к коммиту”
+git remote -v
+git push origin master
+
+echo "# test1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Alexandr1157/test1.git
+git push -u origin main
+
+git remote add origin https://github.com/Alexandr1157/test1.git
+git branch -M main
+git push -u origin mai
+
+ src refspec master does not match any
